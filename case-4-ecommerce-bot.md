@@ -42,6 +42,7 @@
     ![Генерация платежной ссылки](assets/case4/screen_payment_4.png)
 
 *   **Чат Администратора.**
+
     ![Чат Администратора](assets/case4/screen_admin_1.png)
     -
     ![Чат Администратора](assets/case4/screen_admin_2.png)
