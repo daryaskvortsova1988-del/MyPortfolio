@@ -18,6 +18,9 @@
 1.  [Кейс 1: Парсер объявлений Avito с Telegram-интерфейсом](case-1-avito-parser.md)
 2.  [Кейс 2: Nexus Data Flow — Автоматизация Заявок и Уведомлений](case-2-nexus-data-flow.md)
 3.  [Кейс 3: Telegram-бот для управления задачами с ИИ](case-3-ai-task-manager.md)
+4.  [Кейс 4: Масштабируемая система продаж (E-commerce Bot)](case-4-ecommerce-bot.md)
+5.  [Кейс 5: MapsOrgScraper — Система сбора данных с геосервисов](case-5-maps-scraper.md)
+6.  [Кейс 6: AI-Insight — Мониторинг чатов и ИИ-аналитика](case-6-ai-insight.md)
 
 ---
 
