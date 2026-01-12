@@ -32,4 +32,5 @@
     ![ИИ-ответы](assets/case6/screen_ai.png)
 
 *   **MiniApp.**
+
     ![MiniApp](assets/case6/screen_miniapp.png)
